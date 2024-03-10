@@ -3,10 +3,10 @@ Like  on searching a drug displays info about that searched drug and also consis
 This small website shows symtpoms,side effects on consuming a particular medicine as well
 
 Technologies used:
-HTML
-CSS
-JAVASCRIPT
-BOOTSTRAP(FrameWork)
-PHP
-PHPMYSQL
+HTML,
+CSS,
+JAVASCRIPT,
+BOOTSTRAP(FrameWork),
+PHP,
+PHPMYSQL.
                   
